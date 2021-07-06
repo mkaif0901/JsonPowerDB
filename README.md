@@ -16,3 +16,4 @@ It is built on top of one of the fastest and real-time data indexing engine - Po
 It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
 
+Release date: 06-July-2021
